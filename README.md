@@ -69,3 +69,13 @@
 
 #### 高德地图路径规划
 * 此功能基于全面的路网信息和实时路况更新而精准率高，但位置太偏路网络信息未更新或者时GPS信号弱而影响使用。
+
+### API调用
+##### 百度植物识别API
+1. API调用代码
+![植物识别api调用代码](https://github.com/NFUNM172018125/API_ML_AI/blob/master/zhiwu1.png)
+上传图片
+![植物图片](https://github.com/NFUNM172018125/API_ML_AI/blob/master/songshu.jpg)
+输出：植物名称、百科词条url、百科内容描述
+![植物识别返回结果](https://github.com/NFUNM172018125/API_ML_AI/blob/master/zhiwu2.png)
+
