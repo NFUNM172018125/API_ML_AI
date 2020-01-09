@@ -64,10 +64,10 @@
 
 ### 第三部分 产品使用关键AI或机器学习之API的输出入展示
 ##### API使用水平
-* 学而思网校开放平台OCR速算API [详细代码示例]()
-* 学而思网校开放平台OCR文字识别API [详细代码示例]()
-* 讯飞语音合成API [详细代码示例]()
-* 百度AI拍照翻译SDK API [详细代码示例]()
+* 学而思网校开放平台OCR速算API [详细代码示例](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E5%AD%A6%E8%80%8C%E6%80%9DOCR%E9%80%9F%E7%AE%97.ipynb)
+* 学而思网校开放平台OCR文字识别API [详细代码示例](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E5%AD%A6%E8%80%8C%E6%80%9DOCR%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB.ipynb)
+* 讯飞语音合成API [详细代码示例](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E8%AE%AF%E9%A3%9E%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.ipynb)
+* 百度AI拍照翻译SDK API [详细代码示例](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6%E6%96%87%E6%9C%AC%E7%BF%BB%E8%AF%91.ipynb)
 
 ##### API使用比较分析
 
@@ -76,7 +76,7 @@
 
 | 对比平台 | 讯飞 | 学而思 | 
 | :------:| :------: | :------: | 
-| 代码比较 | [讯飞拍照速算识别详细代码]() | [学而思OCR速算详细代码]() | 
+| 代码比较 | [讯飞拍照速算识别详细代码](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E8%AE%AF%E9%A3%9E%E6%8B%8D%E7%85%A7%E9%80%9F%E7%AE%97.ipynb) | [学而思OCR速算详细代码](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E5%AD%A6%E8%80%8C%E6%80%9DOCR%E9%80%9F%E7%AE%97.ipynb) | 
 | 使用效果 | 对于文字识别准确率相对低，不能准确识别一些手写体或是数学单位，识别时间快 | 文字识别准确率高，但识别时间相对慢 | 
 | 成熟度 | [官方文档有详细的demo](https://www.xfyun.cn/doc/words/photo-calculate-recg/API.html#%E8%B0%83%E7%94%A8%E7%A4%BA%E4%BE%8B) | [官方文档有详细的demo](https://docai.xueersi.com/books/ai%E6%95%99%E8%82%B2%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/page/ocr%E9%80%9F%E7%AE%97) | 
 | 性价比 | 每日100000次限额，可申请提额 | 每日限额100000 | 
@@ -89,7 +89,7 @@
 
 | 对比平台 | 百度AI | 学而思 | 
 | :------:| :------: | :------: | 
-| 代码比较 | [讯飞拍照速算识别详细代码]() | [学而思OCR速算详细代码]() | 
+| 代码比较 | [百度OCR文字识别详细代码](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6OCR.ipynb) | [学而思OCR识别详细代码](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E5%AD%A6%E8%80%8C%E6%80%9DOCR%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB.ipynb) | 
 | 使用效果 | 识别的精确度很好，但是标点符号识别不太准确，速度一般 | 文字精确度高于百度，识别速度在0.86s左右,输出结果看起来比百度的方便 | 
 | 成熟度 | 有详细的[api调用文档及说明](https://ai.baidu.com/ai-doc/OCR/zk3h7xz52)，调用方法和过程简单 | [官方文档有详细的demo](https://docai.xueersi.com/books/ai%E6%95%99%E8%82%B2%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/page/ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB) | 
 | 性价比 | 每日50000次/天免费 | 每日限额100000 | 
@@ -102,10 +102,10 @@
 
 | 对比平台 | 百度AI | 讯飞 | 
 | :------:| :------: | :------: | 
-| 代码比较 | [讯飞拍照速算识别详细代码]() | [学而思OCR速算详细代码]() | 
+| 代码比较 | [百度语音合成识别详细代码](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.ipynb) | [讯飞语音合成详细代码](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E8%AE%AF%E9%A3%9E%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.ipynb) | 
 | 使用效果 | 识别的精确度很好，但是标点符号识别不太准确，速度一般 | 文字精确度高于百度，识别速度在0.86s左右,输出结果看起来比百度的方便 | 
 | 成熟度 | 有详细的[api调用文档及说明](https://ai.baidu.com/ai-doc/OCR/zk3h7xz52)，调用方法和过程简单 | [官方文档有详细的demo](https://docai.xueersi.com/books/ai%E6%95%99%E8%82%B2%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/page/ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB) | 
-| 性价比 | 每日50000次/天免费 | 每日限额100000 | 
+| 性价比 | 每日50000次/天免费 | 每日免费500 | 
 | 服务评估 | 有api调用文档说明，使用简单，识别速度一般，但准确率相对较弱 | 有api文档且有示例代码，更换更换APPID、APISecret、APIKey即可用，便于使用，准确率高于百度AI，但识别时间有点慢 | 
 
 * 总结：通过对比调取百度AI和学而思开放平台提供的OCR识别，学而思使用量大，对比输出结果，学而思的准确率高于百度AI，综合上述内容，最终选定使用学而思提供的OCR识别。
@@ -114,11 +114,11 @@
 ##### API加分项
 * 用到的的api有学而思网校AI开放平台OCR速算API、学而思网校AI开放平台OCR文字识别API、讯飞语音合成API、百度AI拍照翻译SDKAPI
 
-* [学而思网校AI开放平台OCR速算代码示例]()
+* [学而思网校AI开放平台OCR速算代码示例](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E5%AD%A6%E8%80%8C%E6%80%9DOCR%E9%80%9F%E7%AE%97.ipynb)
 
-* [学而思网校AI开放平台OCR文字识别代码示例]()
+* [学而思网校AI开放平台OCR文字识别代码示例](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E5%AD%A6%E8%80%8C%E6%80%9DOCR%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB.ipynb)
 
-* [讯飞语音合成代码示例]()
+* [讯飞语音合成代码示例](https://github.com/NFUNM172018125/API_ML_AI/blob/master/%E8%AE%AF%E9%A3%9E%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.ipynb)
 
 * [百度AI拍照翻译SDK代码示例]()
 
